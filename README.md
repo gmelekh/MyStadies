@@ -1,4 +1,5 @@
 MyStadies
 =========
 
-My courses
+My courses :
+Scala course
